@@ -5,5 +5,5 @@
 
 ## Data files
 * [Packt's GitHub repository](http://github.com/PacktPublishing/Machine-Learning-for-Developers)
-* [Data sample files in ML Docker images (this repository)](http://github.com/machine-learning-helpers/data-samples/tree/master/books/machine-learning-for-developers/)
+* [Data sample files in ML Docker images (this repository)](http://github.com/machine-learning-helpers/data-samples/tree/master/books/machine-learning-for-engineers)
 
